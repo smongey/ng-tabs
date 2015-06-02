@@ -1,0 +1,42 @@
+[
+	{ 	"id" : 0, 
+		"title" : "Managed",
+		"slug" : "managed",
+		"info" : "Managed Awesome Info", 
+		"tabs" : [
+			{ "title" : "Managed One", "slug" : "one-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, illum." },
+			{ "title" : "Managed Two", "slug" : "two-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, perspiciatis." },
+			{ "title" : "Managed Three", "slug" : "three-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, est." }
+		] 
+	},
+	{ 	"id" : 1, 
+		"title" : "Balls",
+		"slug" : "balls",
+		"info" : "Balls Awesome Info",
+		"tabs" : [
+			{ "title" : "Balls One", "slug" : "one-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, illum." },
+			{ "title" : "Balls Two", "slug" : "two-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, perspiciatis." },
+			{ "title" : "Balls Three", "slug" : "three-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, est." }
+		]
+	},
+	{ 	"id" : 2,
+		"title" : "Something",
+		"slug" : "something",
+		"info" : "Something Awesome Info",
+		"tabs" : [
+			{ "title" : "Something One", "slug" : "one-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, illum." },
+			{ "title" : "Something Two", "slug" : "two-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, perspiciatis." },
+			{ "title" : "Something Three", "slug" : "three-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, est." }
+		]
+	},
+	{ 	"id" : 3,
+		"title" : "Arse",
+		"slug" : "arse",
+		"info" : "Arse Awesome Info",
+		"tabs" : [
+			{ "title" : "Arse One", "slug" : "one-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, illum." },
+			{ "title" : "Arse Two", "slug" : "two-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, perspiciatis." },
+			{ "title" : "Arse Three", "slug" : "three-tab", "info" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, est." }
+		]
+	}
+]

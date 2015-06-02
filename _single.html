@@ -1,0 +1,8 @@
+<h1>SERVICE: {{ single.title }}</h1>
+<h3>{{ single.slug }}</h3>
+<p>{{ single.info }}</p>
+<li ng-repeat="t in single.tabs">
+	<a ui-sref="service.tab({ tab: t.slug })">{{ t.title }}</a>
+</li>
+
+<div ui-view="tab"></div>
